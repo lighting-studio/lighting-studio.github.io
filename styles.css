@@ -83,6 +83,7 @@ footer {
     flex: 1;
     padding: 20px;
     background-color: #ecf0f1;
+    min-width: 0;
 }
 
 /* 链接无下划线 */
